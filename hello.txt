@@ -1,2 +1,6 @@
 hello world
 System.out.println("hello world");
+
+public List sort(List<String> list){
+    return Collections.sort(list);
+}
